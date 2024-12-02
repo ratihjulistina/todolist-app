@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: rgba(6, 10, 24, 0.849);
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1rem;
+}
