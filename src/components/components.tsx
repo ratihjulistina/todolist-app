@@ -1,5 +1,4 @@
 import React from "react";
-import { MdDeleteOutline } from "react-icons/md";
 
 export function Header() {
   return (
